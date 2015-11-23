@@ -87,11 +87,11 @@ engaging with assistants, speakers, organisers and other stakeholders in the wor
 **November 2004 - January 2006 (1 year 3 Months)**  
 ![alt text][ipb-logo]
 
-[ibm-logo]: https://github.com/manfontan/CV/master/img/ibm-logo.png "ibm-logo"
-[itx-logo]: https://github.com/manfontan/CV/masterimg/itx-logo.png "itx-logo"
-[lcx-logo]: https://github.com/manfontan/CV/master/img/lcx-logo.png "lcx-logo"
-[igalia-logo]: https://github.com/manfontan/CV/master/img/igalia-logo.png "igalia-logo"
-[indra-logo]: https://github.com/manfontan/CV/master/img/indra-logo.png "indra-logo"
-[uvigo-logo]: https://github.com/manfontan/CV/master/img/uvigo-logo.png "uvigo-logo"
-[ipb-logo]: https://github.com/manfontan/CV/master/img/ipb-logo.png "ipb-logo"
-[eci-logo]: https://github.com/manfontan/CV/masterimg/eci-logo.png "eci-logo"
+[ibm-logo]: https://github.com/manfontan/CV/tree/master/img/ibm-logo.png "ibm-logo"
+[itx-logo]: https://github.com/manfontan/CV/tree/masterimg/itx-logo.png "itx-logo"
+[lcx-logo]: https://github.com/manfontan/CV/tree/master/img/lcx-logo.png "lcx-logo"
+[igalia-logo]: https://github.com/manfontan/CV/tree/master/img/igalia-logo.png "igalia-logo"
+[indra-logo]: https://github.com/manfontan/CV/tree/master/img/indra-logo.png "indra-logo"
+[uvigo-logo]: https://github.com/manfontan/CV/tree/master/img/uvigo-logo.png "uvigo-logo"
+[ipb-logo]: https://github.com/manfontan/CV/tree/master/img/ipb-logo.png "ipb-logo"
+[eci-logo]: https://github.com/manfontan/CV/tree/masterimg/eci-logo.png "eci-logo"
