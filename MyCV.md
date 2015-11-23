@@ -5,7 +5,7 @@ https://ie.linkedin.com/in/manuelfontan
 ## Experience
 
 ### IBM Ireland - Software Engineer
-**August 2014 - Present**
+**August 2014 - Present**  
 ![alt text][ibm-logo]
 
 As member of the SCM team for Rational Team Concert. I do work on tooling development for source code management.  
@@ -17,7 +17,7 @@ team organization and process automation.
 --
 
 ### Inditex - Back-End Developer
-**January 2014 - August 2014 (7 Months)**
+**January 2014 - August 2014 (7 Months)**  
 ![alt text][itx-logo]
 
 As part of the Inditex’s eCommerce development team,  I am working on the Enterprise Payments  
@@ -26,7 +26,7 @@ Interface, an stand alone application to handle payment process for www.zara.com
 --
 
 ### Inditex - Web Developer
-**June 2012 - January 2014 (1 year 7 Months)**
+**June 2012 - January 2014 (1 year 7 Months)**  
 ![alt text][itx-logo]
 
 I have developed and maintained several modules of Inditex's Newton project, a logistics managing  
@@ -35,7 +35,7 @@ tool  for stores and shops of the group.
 --
 
 ### Loconomix - Full Stack Developer
-**December 2011 - April 2012 (5 Months)**
+**December 2011 - April 2012 (5 Months)**  
 ![alt text][lcx-logo]
 
 Working as a contractor for Loconomics Inc. a web based start up.
@@ -43,7 +43,7 @@ Working as a contractor for Loconomics Inc. a web based start up.
 --
 
 ### Indra - Back-End Developer
-**November 2010 - December 2011 (1 year 2 Months)**
+**November 2010 - December 2011 (1 year 2 Months)**  
 
 I was actively involved on delivery of several software modules within the deadline,  
 for full satisfaction of our customer GasNatural-Fenosa, a leading company in the Spanish energy industry.
@@ -51,7 +51,7 @@ for full satisfaction of our customer GasNatural-Fenosa, a leading company in th
 --
 
 ### Vigo University - PhD Assitant
-**September 2009 - November 2010 (1 year 3 Months)**
+**September 2009 - November 2010 (1 year 3 Months)**  
 ![alt text][uvigo-logo]
 
 PhD investigation assistant, implementing video on demand codecs and related web app for performance testing purposes.  
@@ -62,7 +62,7 @@ C - Video Decoder research & development
 --
 
 ### Igalia - SysAdmin Intern
-**June 2009 - September 2009 (4 Months)**
+**June 2009 - September 2009 (4 Months)**  
 ![alt text][igalia-logo]
 
 As GNU/Linux System Administration Trainee my main duties were:  
@@ -75,7 +75,7 @@ Achieved a fully functional video chat environment used by company employees
 --
 
 ### IPBrick - Sales Engineer
-**Sept 2007 - August 2008 (1 year)**
+**Sept 2007 - August 2008 (1 year)**  
 ![alt text][ipb-logo]
 
 General Coordinator for the 1st IPBrick-Dell Workshop at Vigo
@@ -84,12 +84,14 @@ engaging with assistants, speakers, organisers and other stakeholders in the wor
 --
 
 ### El Corte Ingles - Sales Associate
-**November 2004 - January 2006 (1 year 3 Months)**
+**November 2004 - January 2006 (1 year 3 Months)**  
+![alt text][ipb-logo]
 
-[ibm-logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "ibm-logo"
-[itx-logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "itx-logo"
-[lcx-logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "lcx-logo"
-[igalia-logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "igalia-logo"
-[indra-logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "indra-logo"
-[uvigo-logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "uvigo-logo"
-[ipb-logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "ipb-logo"
+[ibm-logo]: https://github.com/manfontan/CV/master/img/ibm-logo.png "ibm-logo"
+[itx-logo]: https://github.com/manfontan/CV/masterimg/itx-logo.png "itx-logo"
+[lcx-logo]: https://github.com/manfontan/CV/master/img/lcx-logo.png "lcx-logo"
+[igalia-logo]: https://github.com/manfontan/CV/master/img/igalia-logo.png "igalia-logo"
+[indra-logo]: https://github.com/manfontan/CV/master/img/indra-logo.png "indra-logo"
+[uvigo-logo]: https://github.com/manfontan/CV/master/img/uvigo-logo.png "uvigo-logo"
+[ipb-logo]: https://github.com/manfontan/CV/master/img/ipb-logo.png "ipb-logo"
+[eci-logo]: https://github.com/manfontan/CV/masterimg/eci-logo.png "eci-logo"
