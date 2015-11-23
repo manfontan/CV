@@ -67,7 +67,7 @@ Research of FLOSS video chat solutions.
 Evaluate the different solutions according to the company needs.  
 Integrate and deploy OpenMeetings in the company servers.  
 Write user and developer documentation of the solution.  
-Achieved a fully functional video chat environment used by company employees  
+Achieve a fully functional video chat environment used by company employees  
 
 --
 
