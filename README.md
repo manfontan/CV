@@ -8,3 +8,6 @@ Passionate about technology and practicing sports I am definitely a team player.
 
 ## Experience 
 https://github.com/manfontan/CV/blob/master/Experience.md
+
+## Education
+https://github.com/manfontan/CV/blob/master/Education.md
