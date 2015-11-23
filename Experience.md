@@ -26,7 +26,7 @@ Interface, an stand alone application to handle payment process for www.zara.com
 **June 2012 - January 2014 (1 year 7 Months)**  
 
 I have developed and maintained several modules of Inditex's Newton project, a logistics managing  
-tool  for stores and shops of the group.
+tool for all the stores and shops of the group around the world.
 
 --
 
