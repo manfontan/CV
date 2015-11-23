@@ -16,7 +16,7 @@ team organization and process automation.
 
 --
 
-### Inditex - Back-End Developer
+### Inditex - Back-End Developer  
 ![itx-logo](https://github.com/manfontan/CV/blob/master/img/itx-logo.png)  
 **January 2014 - August 2014 (7 Months)**  
 
@@ -25,7 +25,7 @@ Interface, an stand alone application to handle payment process for www.zara.com
 
 --
 
-### Inditex - Web Developer
+### Inditex - Web Developer  
 ![itx-logo](https://github.com/manfontan/CV/blob/master/img/itx-logo.png)  
 **June 2012 - January 2014 (1 year 7 Months)**  
 
@@ -42,7 +42,7 @@ Working as a contractor for Loconomics Inc. a web based start up.
 
 --
 
-### Indra - Back-End Developer
+### Indra - Back-End Developer  
 ![indra-logo](https://github.com/manfontan/CV/blob/master/img/indra-logo.png)  
 **November 2010 - December 2011 (1 year 2 Months)**  
 
@@ -51,7 +51,7 @@ for full satisfaction of our customer GasNatural-Fenosa, a leading company in th
 
 --
 
-### Vigo University - PhD Assitant
+### Vigo University - PhD Assitant  
 ![uvigo-logo](https://github.com/manfontan/CV/blob/master/img/uvigo-logo.png)  
 **September 2009 - November 2010 (1 year 3 Months)**  
 
@@ -62,7 +62,7 @@ C - Video Decoder research & development
 
 --
 
-### Igalia - SysAdmin Intern
+### Igalia - SysAdmin Intern  
 ![igalia-logo](https://github.com/manfontan/CV/blob/master/img/igalia-logo.png)  
 **June 2009 - September 2009 (4 Months)**  
 
@@ -75,7 +75,7 @@ Achieved a fully functional video chat environment used by company employees
 
 --
 
-### IPBrick - Sales Engineer
+### IPBrick - Sales Engineer  
 ![ipb-logo](https://github.com/manfontan/CV/blob/master/img/ipb-logo.png)  
 **Sept 2007 - August 2008 (1 year)**  
 
@@ -84,6 +84,6 @@ engaging with assistants, speakers, organisers and other stakeholders in the wor
 
 --
 
-### El Corte Ingles - Sales Associate
+### El Corte Ingles - Sales Associate  
 ![eci-logo](https://github.com/manfontan/CV/blob/master/img/eci-logo.png)  
 **November 2004 - January 2006 (1 year 3 Months)**  
