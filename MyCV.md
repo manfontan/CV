@@ -5,7 +5,7 @@ https://ie.linkedin.com/in/manuelfontan
 ## Experience
 
 ### IBM Ireland - Software Engineer
-![alt text][ibm-logo]  
+![ibm-logo]  
 **August 2014 - Present**  
 
 As member of the SCM team for Rational Team Concert. I do work on tooling development for source code management.  
@@ -17,7 +17,7 @@ team organization and process automation.
 --
 
 ### Inditex - Back-End Developer
-![alt text][itx-logo]  
+![itx-logo]  
 **January 2014 - August 2014 (7 Months)**  
 
 As part of the Inditex’s eCommerce development team,  I am working on the Enterprise Payments  
@@ -26,7 +26,7 @@ Interface, an stand alone application to handle payment process for www.zara.com
 --
 
 ### Inditex - Web Developer
-![alt text][itx-logo]  
+![itx-logo]  
 **June 2012 - January 2014 (1 year 7 Months)**  
 
 I have developed and maintained several modules of Inditex's Newton project, a logistics managing  
@@ -35,7 +35,7 @@ tool  for stores and shops of the group.
 --
 
 ### Loconomix - Full Stack Developer
-![alt text][lcx-logo]  
+![lcx-logo]  
 **December 2011 - April 2012 (5 Months)**  
 
 Working as a contractor for Loconomics Inc. a web based start up.
@@ -43,7 +43,7 @@ Working as a contractor for Loconomics Inc. a web based start up.
 --
 
 ### Indra - Back-End Developer
-![alt text][indra-logo]  
+![indra-logo]  
 **November 2010 - December 2011 (1 year 2 Months)**  
 
 I was actively involved on delivery of several software modules within the deadline,  
@@ -52,7 +52,7 @@ for full satisfaction of our customer GasNatural-Fenosa, a leading company in th
 --
 
 ### Vigo University - PhD Assitant
-![alt text][uvigo-logo]  
+![uvigo-logo]  
 **September 2009 - November 2010 (1 year 3 Months)**  
 
 PhD investigation assistant, implementing video on demand codecs and related web app for performance testing purposes.  
@@ -63,7 +63,7 @@ C - Video Decoder research & development
 --
 
 ### Igalia - SysAdmin Intern
-![alt text][igalia-logo]  
+![igalia-logo]  
 **June 2009 - September 2009 (4 Months)**  
 
 As GNU/Linux System Administration Trainee my main duties were:  
@@ -76,7 +76,7 @@ Achieved a fully functional video chat environment used by company employees
 --
 
 ### IPBrick - Sales Engineer
-![alt text][ipb-logo]  
+![ipb-logo]  
 **Sept 2007 - August 2008 (1 year)**  
 
 General Coordinator for the 1st IPBrick-Dell Workshop at Vigo
@@ -85,14 +85,14 @@ engaging with assistants, speakers, organisers and other stakeholders in the wor
 --
 
 ### El Corte Ingles - Sales Associate
-![alt text][eci-logo]  
+![eci-logo]  
 **November 2004 - January 2006 (1 year 3 Months)**  
 
-[ibm-logo]: https://github.com/manfontan/CV/blob/master/img/ibm-logo.png "ibm-logo"
-[itx-logo]: https://github.com/manfontan/CV/blob/master/img/itx-logo.png "itx-logo"
-[lcx-logo]: https://github.com/manfontan/CV/blob/master/img/lcx-logo.png "lcx-logo"
-[igalia-logo]: https://github.com/manfontan/CV/blob/master/img/igalia-logo.png "igalia-logo"
-[indra-logo]: https://github.com/manfontan/CV/blob/master/img/indra-logo.png "indra-logo"
-[uvigo-logo]: https://github.com/manfontan/CV/blob/master/img/uvigo-logo.png "uvigo-logo"
-[ipb-logo]: https://github.com/manfontan/CV/blob/master/img/ipb-logo.png "ipb-logo"
-[eci-logo]: https://github.com/manfontan/CV/blob/master/img/eci-logo.png "eci-logo"
+[ibm-logo]: https://github.com/manfontan/CV/blob/master/img/ibm-logo.png width="48"
+[itx-logo]: https://github.com/manfontan/CV/blob/master/img/itx-logo.png width="48"
+[lcx-logo]: https://github.com/manfontan/CV/blob/master/img/lcx-logo.png width="48"
+[igalia-logo]: https://github.com/manfontan/CV/blob/master/img/igalia-logo.png width="48"
+[indra-logo]: https://github.com/manfontan/CV/blob/master/img/indra-logo.png width="48"
+[uvigo-logo]: https://github.com/manfontan/CV/blob/master/img/uvigo-logo.png width="48"
+[ipb-logo]: https://github.com/manfontan/CV/blob/master/img/ipb-logo.png width="48"
+[eci-logo]: https://github.com/manfontan/CV/blob/master/img/eci-logo.png width="48"
