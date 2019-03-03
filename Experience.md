@@ -1,7 +1,7 @@
 # Experience
 
 ### IBM Ireland - Software Engineer
-![ibm-logo] (https://github.com/manfontan/CV/blob/master/img/ibm-logo.png)  
+![ibm-logo](https://github.com/manfontan/CV/blob/master/img/ibm-logo.png)  
 **August 2014 - Present.**
 *Dublin, Ireland*  
 As member of the SCM team for Rational Team Concert. I do work on tooling development for source code management.  
