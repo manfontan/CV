@@ -15,7 +15,7 @@ Including a range of tasks such as migrations from Windows servers to Linux boxe
 I did also support a wide number of developer teams, troubleshooting daily issues, mostly related with CI/CD,  
 team organization and process automation.
 
---
+---
 
 ### Inditex - Back-End Developer  
 ![itx-logo](https://github.com/manfontan/CV/blob/master/img/itx-logo.png)  
@@ -24,7 +24,7 @@ team organization and process automation.
 As part of the Inditex’s eCommerce development team,  I worked on the Enterprise Payments  
 Interface, an standalone application to process payments for www.zara.com online shop.
 
---
+---
 
 ### Inditex - Web Developer  
 ![itx-logo](https://github.com/manfontan/CV/blob/master/img/itx-logo.png)  
@@ -32,15 +32,15 @@ Interface, an standalone application to process payments for www.zara.com online
 *A Coruña, Spain*  
 I have developed and maintained several modules of Inditex's Newton project, a logistics managing tool for all the stores and shops of the group around the world.
 
---
+---
 
 ### Loconomix - Full Stack Developer  
-<img src="https://github.com/manfontan/CV/blob/master/img/lcx-logo.png" alt="lcx-logo" width="100px;"/>  
+<img src="https://github.com/manfontan/CV/blob/master/img/lcx-logo.png" alt="lcx-logo" width="100px;"/></br>
 **December 2011 - April 2012 (5 Months).**
 *Barcelona, Spain*  
 Working as a contractor for Loconomics Inc. a web based start up.
 
---
+---
 
 ### Indra - Back-End Developer  
 ![indra-logo](https://github.com/manfontan/CV/blob/master/img/indra-logo.png)  
@@ -49,7 +49,7 @@ Working as a contractor for Loconomics Inc. a web based start up.
 I was actively involved on delivery of several software modules within the deadline,  
 for full satisfaction of our customer GasNatural-Fenosa, a leading company in the Spanish energy industry.
 
---
+---
 
 ### Vigo University - PhD Assitant  
 ![uvigo-logo](https://github.com/manfontan/CV/blob/master/img/uvigo-logo.png)  
@@ -60,7 +60,7 @@ PhD investigation assistant, implementing video on demand codecs and related web
 Multimedia, Near VoD software developer at Vigo University  
 C - Video Decoder research & development  
 
---
+---
 
 ### Igalia - SysAdmin Intern  
 ![igalia-logo](https://github.com/manfontan/CV/blob/master/img/igalia-logo.png)  
@@ -73,7 +73,7 @@ Integrate and deploy OpenMeetings in the company servers.
 Write user and developer documentation of the solution.  
 Achieve a fully functional video chat environment used by company employees  
 
---
+---
 
 ### IPBrick - Sales Engineer  
 ![ipb-logo](https://github.com/manfontan/CV/blob/master/img/ipb-logo.png)  
@@ -82,7 +82,7 @@ Achieve a fully functional video chat environment used by company employees
 General Coordinator for the 1st IPBrick-Dell Workshop at Vigo
 engaging with assistants, speakers, organizers and other stakeholders in the workshop achieving the successful introduction of the company brand in the Galician market, where the brand started to operate first.
 
---
+---
 
 ### El Corte Ingles - Sales Associate  
 ![eci-logo](https://github.com/manfontan/CV/blob/master/img/eci-logo.png)  
