@@ -1,9 +1,11 @@
 # Experience
 
 ### MongoDB Inc. - Technical Services Engineer
-<img src="https://github.com/manfontan/CV/blob/master/img/mgdb-logo.png" alt="lcx-logo" width="100px;"/></br>
+<img src="https://github.com/manfontan/CV/blob/master/img/mgdb-logo.png" alt="lcx-logo" width="110px;"/></br>
 **February 2017 - Present**
 Working as a TSE in the Support Team I have helped MongoDB customers in hundreds of cases covering multiple areas with special focus on Security configuration, [MongoDB Drivers](https://docs.mongodb.com/ecosystem/drivers/), Queries/Index performance optimization, [MongoDB Stitch](https://www.mongodb.com/cloud/stitch) (Serverless platform) and [MongoDB Atlas](https://www.mongodb.com/cloud/Atlas) performance.
+
+---
 
 ### IBM Ireland - Software Engineer
 ![ibm-logo](https://github.com/manfontan/CV/blob/master/img/ibm-logo.png)  
