@@ -2,14 +2,15 @@
 
 ### MongoDB Inc. - Technical Services Engineer
 <img src="https://github.com/manfontan/CV/blob/master/img/mgdb-logo.png" alt="lcx-logo" width="110px;"/></br>
-**February 2017 - Present**
+**February 2017 - Present.**
+*Dublin, Ireland* 
 Working as a TSE in the Support Team I have helped MongoDB customers in hundreds of cases covering multiple areas with special focus on Security configuration, [MongoDB Drivers](https://docs.mongodb.com/ecosystem/drivers/), Queries/Index performance optimization, [MongoDB Stitch](https://www.mongodb.com/cloud/stitch) (Serverless platform) and [MongoDB Atlas](https://www.mongodb.com/cloud/Atlas) performance.
 
 ---
 
 ### IBM Ireland - Software Engineer
 ![ibm-logo](https://github.com/manfontan/CV/blob/master/img/ibm-logo.png)  
-**August 2014 - January 2017**
+**August 2014 - January 2017 (2 Years 6 Months).**
 *Dublin, Ireland*  
 As member of the SCM team for Rational Team Concert. I worke developing and integrating soruce code management tools.  
 Including a range of tasks such as migrations from Windows servers to Linux boxes, Dockerization of tools like centralization login with ELK or github webhooks processing, installation/upgrade automation using python scripts, database and web server maintenance and configuration, security configuration and many more.  
