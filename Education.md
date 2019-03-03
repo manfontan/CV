@@ -1,7 +1,7 @@
 # Education
 
 ### MEng in Free Software  
-<img src="https://github.com/manfontan/CV/blob/master/img/rjc-logo.png" alt="lcx-logo" width="100px;"/>  
+<img src="https://github.com/manfontan/CV/blob/master/img/rjc-logo.png" alt="lcx-logo" width="100px;"/></br>
 **Rey Juan Carlos University (Octover 2008 - December 2009)**  
 www.mastersoftwarelibre.com
 
