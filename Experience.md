@@ -1,13 +1,18 @@
 # Experience
 
+### MongoDB Inc. - Technical Services Engineer
+![mgdb-log](https://github.com/manfontan/CV/blob/master/img/mgdb-logo.png)
+**February 2017 - Present**
+Working as a TSE in the Support Team I have helped MongoDB customers in hundreds of cases covering multiple areas with special focus on Security configuration, [MongoDB Drivers](https://docs.mongodb.com/ecosystem/drivers/), Queries/Index performance optimization, [MongoDB Stitch](https://www.mongodb.com/cloud/stitch) (Serverless platform) and [MongoDB Atlas](https://www.mongodb.com/cloud/Atlas) performance.
+
 ### IBM Ireland - Software Engineer
 ![ibm-logo](https://github.com/manfontan/CV/blob/master/img/ibm-logo.png)  
-**August 2014 - Present.**
+**August 2014 - January 2017**
 *Dublin, Ireland*  
-As member of the SCM team for Rational Team Concert. I do work on tooling development for source code management.  
-This includes different tasks such as migrations from Windows servers to Linux boxes, Dockerization of tools such as   centralization login with ELK or github webhooks processing, automation of tools installation and update using python   scripts, database and web server maintenance and configuration, security configuration and many more.  
+As member of the SCM team for Rational Team Concert. I worke developing and integrating soruce code management tools.  
+Including a range of tasks such as migrations from Windows servers to Linux boxes, Dockerization of tools like centralization login with ELK or github webhooks processing, installation/upgrade automation using python scripts, database and web server maintenance and configuration, security configuration and many more.  
 
-I do also support a wide number of developer teams, troubleshooting daily issues, mostly related with CI/CD,  
+I did also support a wide number of developer teams, troubleshooting daily issues, mostly related with CI/CD,  
 team organization and process automation.
 
 --
@@ -16,8 +21,8 @@ team organization and process automation.
 ![itx-logo](https://github.com/manfontan/CV/blob/master/img/itx-logo.png)  
 **January 2014 - August 2014 (7 Months).**
 *A Coruña, Spain*  
-As part of the Inditex’s eCommerce development team,  I am working on the Enterprise Payments  
-Interface, an stand alone application to handle payment process for www.zara.com online shop.
+As part of the Inditex’s eCommerce development team,  I worked on the Enterprise Payments  
+Interface, an standalone application to process payments for www.zara.com online shop.
 
 --
 
@@ -25,8 +30,7 @@ Interface, an stand alone application to handle payment process for www.zara.com
 ![itx-logo](https://github.com/manfontan/CV/blob/master/img/itx-logo.png)  
 **June 2012 - January 2014 (1 year 7 Months).**
 *A Coruña, Spain*  
-I have developed and maintained several modules of Inditex's Newton project, a logistics managing  
-tool for all the stores and shops of the group around the world.
+I have developed and maintained several modules of Inditex's Newton project, a logistics managing tool for all the stores and shops of the group around the world.
 
 --
 
