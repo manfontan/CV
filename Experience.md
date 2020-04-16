@@ -20,7 +20,7 @@ team organization and process automation.
 
 ---
 
-### Inditex - Back-End Developer  
+### Inditex - Senior Back-End Developer  
 ![itx-logo](https://github.com/manfontan/CV/blob/master/img/itx-logo.png)  
 **January 2014 - August 2014 (7 Months).**
 *A Coruña, Spain*  
