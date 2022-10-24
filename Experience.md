@@ -10,6 +10,8 @@
 **April 2020 - April 2022**
 *Remote, Ireland*
 
+As a DBRE for Slack and then Salesforce I was responsible for the reliability of 20K+ database nodes distributed across several cloud providers and regions handling millions of queries per second. On my day to day I was part of the on call rotation, the incident commander rotation and worked on several automation tools and infrastructure projects to handle operational tasks like observability, backups, upgrades, replacements ... on our cloud infrastructure. 
+
 ---
 
 ### MongoDB Inc. - Senior Technical Services Engineer
@@ -24,7 +26,7 @@ Working as a TSE in the Support Team I have helped MongoDB customers in hundreds
 ![ibm-logo](https://github.com/manfontan/CV/blob/master/img/ibm-logo.png)  
 **August 2014 - January 2017.**
 *Dublin, Ireland*  
-As member of the SCM team for Rational Team Concert. I worke developing and integrating soruce code management tools.  
+As member of the SCM team for Rational Team Concert. I worked developing and integrating soruce code management tools.  
 Including a range of tasks such as migrations from Windows servers to Linux boxes, Dockerization of tools like centralization login with ELK or github webhooks processing, installation/upgrade automation using python scripts, database and web server maintenance and configuration, security configuration and many more.  
 
 I did also support a wide number of developer teams, troubleshooting daily issues, mostly related with CI/CD,  
@@ -49,7 +51,7 @@ I have developed and maintained several modules of Inditex's Newton project, a l
 <img src="https://github.com/manfontan/CV/blob/master/img/lcx-logo.png" alt="lcx-logo" width="100px;"/></br>
 **December 2011 - April 2012 (5 Months).**
 *Barcelona, Spain*  
-Working as a contractor for Loconomics Inc. a web based start up, my main focus was consolidating the development
+Working as a contractor for Loconomics Inc. a web based startup, my main focus was consolidating the development
 framework and hiring a full stack engineer.
 
 ---
@@ -59,7 +61,7 @@ framework and hiring a full stack engineer.
 **November 2010 - December 2011.**
 *A Coruña, Spain*  
 As part of the backend agile team I contributed to the delivery of several features of the new CRM within the deadline,  
-for full satisfaction of our customer GasNatural-Fenosa, a leading company in the Spanish energy industry.
+for full satisfaction of our customer Naturgy, a leading energy company in the Spanish market.
 
 ---
 
